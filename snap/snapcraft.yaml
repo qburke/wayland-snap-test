@@ -1,5 +1,5 @@
 name: qburke-testapp
-version: '0.1'
+version: '0.2'
 summary: GLMark2 IoT example kiosk
 description: GLMark2 IoT example kiosk, using Wayland
 base: core18
